@@ -31,7 +31,7 @@ Engineering work for Nutrien Ag Solutions on an agronomic decision-support proto
 
 ### Carbon-intensity software
 
-Calculator and API integration work for **Illinois Corn / Precision Conservation Management**, connecting agricultural management data with GREET/FDCIC workflows. My contributions include data schemas, management-practice mappings, calculation workflows, and ongoing integration updates.
+Calculator and API integration work connecting agricultural management data with GREET/FDCIC workflows. My contributions include data schemas, management-practice mappings, calculation workflows, and ongoing integration updates.
 
 ### Agricultural Magic
 
